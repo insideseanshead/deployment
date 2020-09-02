@@ -16,3 +16,16 @@ main {
     display: block;
     margin: 0 auto;
 }
+
+.dynamicDuo {
+    max-width: 300px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+P {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
